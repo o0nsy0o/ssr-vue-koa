@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/o0nsy0o/ssr-vue-koa#readme",
   "dependencies": {
+    "ip": "^1.1.5",
     "koa-router": "^7.4.0",
     "koa2": "^2.0.0-alpha.7",
     "serve-favicon": "^2.5.0",
